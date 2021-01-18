@@ -198,6 +198,8 @@ class Projects extends React.Component {
                                 <p>This was a project developed in my Intro to Computer Science II course in my first year. The project was to develop a GUI for an electronic store model. The GUI would simulate the checkout process
                                 of a store by being able to add/remove things from their cart, a store stock (can't buy more than what is available), and a most popular section which shows the top three items bought from the store.
                                 </p>
+                                
+                                <a target="_blank" rel="noreferrer" href="https://github.com/Erictran004/ElectronicStore"><GitHubIcon style={{ fill: "black" }} /></a>
 
                                 <hr class="solid"></hr>
                                 <img src={ElectronicStore} alt=""></img>
